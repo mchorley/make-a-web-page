@@ -1,0 +1,22 @@
+h1 {
+  display: block;
+  background-color: #33BEBE;
+  color: white;
+  font-family: arial;
+  font-size: 2em;
+  -webkit-margin-before: 0.67em;
+  -webkit-margin-after: 0.67em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+}
+{
+	-box-sizing: border-box;
+}
+.app {
+	display: flex;
+}
+.description {
+	font-family: 
+	arial;
+}
